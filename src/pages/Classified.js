@@ -130,6 +130,16 @@ const Classified = () => (
         </a>{" "}
         - BOOOM, WHOOOOOSH, RATATATATATATA!!
       </li>
+	  <li>
+        <a
+          target="_blank"
+          rel="noopener noreferrer"
+          href="https://steamcommunity.com/sharedfiles/filedetails/?id=825179978"
+        >
+          Enhanced Soundscape
+        </a>{" "}
+        - Better environment-based sound simulation (best used with Dynasound 2)
+      </li>
       <li>
         <a
           target="_blank"
